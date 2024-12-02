@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#number-El {
+ margin: 250px 0 10px 0;
+ text-align: center;
+ font-size: 80px;
+}
+
+.button-container{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+}
